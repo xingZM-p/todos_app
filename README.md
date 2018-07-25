@@ -1,4 +1,4 @@
-#单页应用(history.pushSatte(state, 'title', url)) + 本地存储（localstorage)，共写有两个页面
+#单页应用(history.pushState(state, 'title', url)) + 本地存储（localstorage)，共写有两个页面
 - 显示todo-list页面
 ![image](https://github.com/xingZM-p/todos_app/blob/master/todo_app01.PNG)
 - 显示todo-detail页面
