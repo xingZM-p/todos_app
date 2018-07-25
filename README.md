@@ -4,4 +4,4 @@
 - 显示todo-detail页面
 ![image](https://github.com/xingZM-p/todos_app/blob/master/todo_app02.PNG)
 
-**注意：部分时间JS代码待完善**
+**注意：部分事件JS代码待完善**
